@@ -1,0 +1,14 @@
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\bin\Debug\ColeProject4.exe.config
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\bin\Debug\ColeProject4.exe
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\bin\Debug\ColeProject4.pdb
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.Properties.Resources.resources
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.csproj.GenerateResource.cache
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.csproj.CoreCompileInputs.cache
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.exe
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.pdb
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.CategoryForm.resources
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.csprojAssemblyReference.cache
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.BikeForm.resources
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.ComponentForm.resources
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.AccessoryForm.resources
+C:\Users\Yoshi\source\repos\ColeProject4\ColeProject4\obj\Debug\ColeProject4.ClothingForm.resources
